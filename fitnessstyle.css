@@ -1,0 +1,141 @@
+h1,h2
+{
+    text-align: center;
+    color:gold;
+    font-family: fantasy;
+    font-size: 55px;
+    word-spacing: 9px;
+
+    
+}
+h3,p
+{
+    font-size: 50px;
+    text-align: center;
+}
+body
+{
+    background-image: url(https://thumbs.dreamstime.com/b/purple-vintage-background-distressed-grunge-texture-deep-color-design-elegant-website-wall-paper-illustration-old-dark-152985953.jpg);
+}
+.navbar
+{
+    overflow: hidden;
+    text-align: right;
+    border-bottom: 2px solid gold;
+    padding-top: -10rem;
+}
+.navbar a 
+{
+    float:left;
+    color: gold;
+    text-align: center;
+    padding:5px 8px;
+    padding-right: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    border-width: 0px;
+    padding-top: 3rem;
+}
+.promo 
+{
+    float:center;
+    color: gold;
+    text-align: center;
+    font-size: 30px;
+}
+.coverpic
+{
+    display:contents;
+    height: 750px;
+    width: 750px;
+}
+.center
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 75%;
+    border: 1px solid purple;
+    
+    justify-content: center;
+    font-size: 75%;
+}
+
+td, th
+{
+    text-align: left;
+    padding: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+    font-size: 25px;
+    border: 1px, solid black;
+    border-radius: 10px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+
+
+.personalT
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+input[type=text], select
+ {
+     
+    display:block;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid gold;
+    border-radius: 4px;
+    width: 25%;
+}
+input[type=tel], select
+{
+    
+    display: block;
+    padding: 12px 0px;
+    margin: 8px 0;
+    border: 1px solid gold;
+    border-radius: 4px;
+    width: 25%;
+}
+label
+{
+    color: gold;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button
+{
+    width: 25%;
+    color: purple;
+    background-color: gold;
+    padding: 14px;
+    margin:auto;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+footer
+{
+   text-align: center;
+   padding: 5px;
+   background-color: gold;
+   color: purple;
+   font-size: 5px;
+}
+ header
+ {
+     color: gold;
+ }
